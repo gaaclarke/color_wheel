@@ -9,6 +9,7 @@ on:
     types: [synchronize]
 
 permissions:
+  pull-requests: write
   issues: write
 
 jobs:
